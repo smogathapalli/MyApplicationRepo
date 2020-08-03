@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
                                                                                         .setAction("Action", null).show();
                                                             }
                                         });
+
+                                        int i = 100;
                     }
 
                     @Override
